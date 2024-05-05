@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginRegister</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="already_have_account_login_here">Already Have Account? Login Here</string>
+    <string name="make_your_account">Make Your Account!</string>
+    <string name="your_name">Your Name</string>
+    <string name="logout">Logout</string>
+    <string name="create_account">Create Account</string>
+</resources>
